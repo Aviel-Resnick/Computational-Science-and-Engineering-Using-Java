@@ -7,7 +7,6 @@ package helloworldapp;
  * @author Aviel Resnick
  */
 public class HelloWorldApp {
-
     /**
      * @param args the command line arguments
      */
