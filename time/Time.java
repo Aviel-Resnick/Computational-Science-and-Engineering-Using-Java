@@ -32,9 +32,8 @@ public class Time {
         //Percentage of the day which has passed
         double totalSecondsDouble = totalSeconds;
         double percentDouble = ((totalSecondsDouble/86400.0) * 100);
-        int percent = (int)percentDouble;
         
-        System.out.println("Percent elapsed: " + percent + "%");
+        System.out.println("Percent elapsed: " + percentDouble + "%");
     }
     
 }
